@@ -1,10 +1,10 @@
 
 
 ### Hi, I'm Venkat Sai Subash!
-🌟 Aspiring MLOps Engineer <br/>
-🎓 Information Technology Graduate from Malla Reddy College of Engineering and Technology <br/>
+🌟 Data Analyst & Aspiring Data Scientist <br/>
+🎓 Information Technology Graduate Student at University of Cincinnati<br/>
 🚀 Currently diving deep into the world of Deep Learning and Generative AI! <br/> 
-💡 Always Learning: Eager to embrace new challenges and continuously improve my expertise in MLOps practices. <br/>
+💡 Always Learning: Eager to embrace new challenges and continuously improve my expertise in Data Science practices. <br/>
 
 ![VenkatSubash's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatsubash2003&show_icons=true&theme=holi)
 
