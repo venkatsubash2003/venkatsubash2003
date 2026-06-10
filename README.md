@@ -151,19 +151,6 @@ AI-assisted analytics ecosystem for stakeholder reporting and operational intell
 
 ---
 
-## 🐍 Contribution Snake
-
-```yaml
-Coming Soon:
-GitHub Snake Animation
-```
-
-Add later:
-
-https://github.com/Platane/snk
-
----
-
 ## 🎯 2026 Goals
 
 * Build Production Grade Agentic AI Systems
