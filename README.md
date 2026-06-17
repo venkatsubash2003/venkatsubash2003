@@ -27,19 +27,27 @@
 
 ## `SYSTEM.IDENTITY`
 
-```yaml
-name: Venkat Sai Subash Panchakarla
-base: Cincinnati, Ohio, USA
-signal: AI/ML Engineer + Data Systems Builder
-education: M.S. Information Technology, University of Cincinnati | GPA 4.0
-mission: Build high-impact AI systems that bridge research and production
-specialties:
-  - Low-latency LLM inference
-  - Retrieval-Augmented Generation pipelines
-  - Distributed vector search
-  - Cloud-native MLOps
-  - ML-ready data engineering
-```
+<table>
+<tr>
+<td>
+
+### 👋 Venkat Sai Subash Panchakarla
+
+**AI/ML Engineer · LLM Systems Builder · Data Infrastructure Enthusiast**
+
+| Signal | Value |
+|---|---|
+| 📍 Base | Cincinnati, Ohio, USA |
+| 🎓 Education | M.S. Information Technology, University of Cincinnati · **GPA 4.0** |
+| 🧠 Focus | Low-latency LLM inference, RAG, distributed vector search |
+| 🛠️ Build Style | Production-grade AI pipelines with measurable latency, quality, and reliability |
+| 🚀 Mission | Bridge research and production through useful, observable AI systems |
+
+**Specialized in:** `RAG Pipelines` · `LLM Evaluation` · `Vector Search` · `Cloud MLOps` · `Feature Stores`
+
+</td>
+</tr>
+</table>
 
 </td>
 <td width="42%" valign="top">
@@ -47,11 +55,15 @@ specialties:
 ## `LIVE.METRICS`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Latency-35%25%20Lower-06B6D4?style=flat-square&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Retrieval%20Relevance-40%25%20Higher-8B5CF6?style=flat-square&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Data%20Prep-30%25%20Less%20Manual-10B981?style=flat-square&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Experiment%20Setup-40%25%20Faster-F59E0B?style=flat-square&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Knowledge%20Base-10x%20Scale-EF4444?style=flat-square&labelColor=020617" />
+  <img src="https://img.shields.io/badge/LLM%20Latency-35%25%20Lower-06B6D4?style=for-the-badge&labelColor=020617" />
+  <br/>
+  <img src="https://img.shields.io/badge/Retrieval%20Relevance-40%25%20Higher-8B5CF6?style=for-the-badge&labelColor=020617" />
+  <br/>
+  <img src="https://img.shields.io/badge/Data%20Prep-30%25%20Less%20Manual-10B981?style=for-the-badge&labelColor=020617" />
+  <br/>
+  <img src="https://img.shields.io/badge/Experiment%20Setup-40%25%20Faster-F59E0B?style=for-the-badge&labelColor=020617" />
+  <br/>
+  <img src="https://img.shields.io/badge/Knowledge%20Base-10x%20Scale-EF4444?style=for-the-badge&labelColor=020617" />
 </p>
 
 > I design AI products like infrastructure: measurable, observable, scalable, and useful.
@@ -64,30 +76,83 @@ specialties:
 
 ## `AI_SYSTEM_BLUEPRINT`
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[ETL / ELT Pipelines]
-    B --> C[Validation + Anomaly Detection]
-    C --> D[Feature Store]
-    D --> E[Embeddings + Vector Index]
-    E --> F[RAG Orchestration]
-    F --> G[LLM Inference Layer]
-    G --> H[FastAPI / Streamlit Apps]
-    H --> I[Evaluation + Feedback Loop]
-    I --> C
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=145&color=0:020617,35:312E81,70:0891B2,100:14B8A6&text=NEURAL%20OPS%20COMMAND%20CENTER&fontColor=FFFFFF&fontSize=26&fontAlignY=43&desc=Data%20signals%20%E2%86%92%20retrieval%20cortex%20%E2%86%92%20LLM%20inference%20%E2%86%92%20observable%20AI%20products&descSize=14&descAlignY=68&animation=twinkling" alt="Neural Ops Command Center" width="100%" />
+</p>
 
-    style A fill:#020617,stroke:#22d3ee,color:#e5e7eb
-    style F fill:#312e81,stroke:#a78bfa,color:#ffffff
-    style G fill:#064e3b,stroke:#34d399,color:#ffffff
-    style I fill:#451a03,stroke:#fbbf24,color:#ffffff
-```
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🛰️ Signal Intake
+<img src="https://img.shields.io/badge/Snowflake%20%7C%20BigQuery%20%7C%20ETL-Pipeline-0EA5E9?style=for-the-badge&labelColor=020617" />
+
+Raw data becomes clean, scalable, ML-ready pipelines.
+
+</td>
+<td align="center" width="33%">
+
+### 🧪 Quality Gate
+<img src="https://img.shields.io/badge/Validation%20%7C%20Anomaly%20Detection-Guardrail-8B5CF6?style=for-the-badge&labelColor=020617" />
+
+Schema checks, drift signals, and reliability guards catch weak inputs early.
+
+</td>
+<td align="center" width="33%">
+
+### 🧬 Feature Forge
+<img src="https://img.shields.io/badge/Feature%20Stores%20%7C%20Reusable%20Workflows-ML%20Ready-10B981?style=for-the-badge&labelColor=020617" />
+
+Reusable features accelerate experiments and keep models reproducible.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🔎 Retrieval Cortex
+<img src="https://img.shields.io/badge/FAISS%20%7C%20Pinecone%20%7C%20Weaviate-Vector%20Search-22D3EE?style=for-the-badge&labelColor=020617" />
+
+Semantic chunking, embeddings, ranked retrieval, and vector search at scale.
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 LLM Inference Core
+<img src="https://img.shields.io/badge/Llama%203.1%20%7C%20BERT%20%7C%20FastAPI-Inference-F59E0B?style=for-the-badge&labelColor=020617" />
+
+Low-latency inference layers tuned for throughput, accuracy, and cost.
+
+</td>
+<td align="center" width="33%">
+
+### 📡 Feedback Radar
+<img src="https://img.shields.io/badge/Evaluation%20%7C%20Prometheus%20%7C%20Grafana-Feedback%20Loop-EF4444?style=for-the-badge&labelColor=020617" />
+
+Evaluation loops and monitoring convert user behavior into system improvements.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAW%20DATA-Ingest-0EA5E9?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/%E2%86%92-020617-020617?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/QUALITY%20GATE-Validate-8B5CF6?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/%E2%86%92-020617-020617?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/VECTOR%20MEMORY-Retrieve-22D3EE?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/%E2%86%92-020617-020617?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/RAG%20BRAIN-Reason-10B981?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/%E2%86%92-020617-020617?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/AI%20PRODUCT-Ship-F59E0B?style=for-the-badge&labelColor=020617" />
+</p>
 
 ---
 
 ## `TECH_ARSENAL`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,azure,docker,kubernetes,fastapi,postgres,sqlite,git,linux,bash,js,cpp" alt="Core Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,azure,docker,kubernetes,fastapi,postgres,sqlite,git,linux,bash,js,cpp&perline=8" alt="Core Skills" />
 </p>
 
 <p align="center">
@@ -245,16 +310,28 @@ AI-assisted analytics system for stakeholder reporting and KPI tracking.
 ## `GITHUB_TELEMETRY`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatsubash2003&show_icons=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatsubash2003&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,35:8B5CF6,70:10B981,100:F59E0B" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=venkatsubash2003&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak" />
+  <img height="178" src="https://github-readme-stats.vercel.app/api?username=venkatsubash2003&show_icons=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&icon_color=A78BFA&border_radius=18" alt="GitHub Stats" />
+  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatsubash2003&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E5E7EB&border_radius=18" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatsubash2003&bg_color=020617&color=E5E7EB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatsubash2003&theme=tokyonight" alt="GitHub Contribution Profile Details" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=venkatsubash2003&custom_title=Contribution%20Nebula%20%7C%20Code%20Signals%20Over%20Time&bg_color=020617&color=E0F2FE&line=22D3EE&point=FFFFFF&area=true&area_color=312E81&hide_border=true&radius=18&height=330" alt="Contribution Nebula Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=venkatsubash2003&hide_border=true&background=020617&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&border_radius=18" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatsubash2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophy Showcase" />
 </p>
 
 ---
